@@ -1,7 +1,7 @@
 # 🛒 Price Tracer Project
 
 A Python-based **web scraping tool** that tracks product prices from e-commerce websites.  
-This project was created as part of **Module 17: Web Scraping** assignment.
+This project was created as part of ** Web Scraping** assignment.
 
 ---
 
