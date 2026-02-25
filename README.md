@@ -15,7 +15,7 @@ It fetches the latest price details, processes the data, and helps users decide 
 - Uses `requests`, `BeautifulSoup`, and other libraries.
 - Organizes data cleanly for future processing or analysis.
 - Modular design for easy extension (e.g., adding more websites or products).
-
+- 
 ---
 
 ## 🧰 Features
